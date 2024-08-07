@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>884289053301-141aasib1b5bdqjbh6t61d2rsqk4mdv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.884289053301-141aasib1b5bdqjbh6t61d2rsqk4mdv7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>884289053301-49hd2bipt1mfa36g77v7tha33sf5g2p9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBN9gZngAzU5zGpz4kwi-x8pHKI_EpVZjE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>884289053301</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.privepay.pay</string>
+	<key>PROJECT_ID</key>
+	<string>privepay-7bb8c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>privepay-7bb8c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:884289053301:ios:1ec603ff9bc8bcaf814e3c</string>
+	<key>DATABASE_URL</key>
+	<string>https://privepay-7bb8c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
